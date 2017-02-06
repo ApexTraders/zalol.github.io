@@ -1,0 +1,13 @@
+Package: com.zal.AddToRepo
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Zalol <austinkincaidaitr@gmail.com>
+Filename: /AddToRepo.deb
+Size: 4854
+MD5sum: 691fe7cc7b6c05226d7347ab13984ef0
+SHA1: 70dca0ffd48126a6f0205ed9e5318eb65c6e795f
+SHA256: d1bf5de9f4dee950dea9870f5b54ee487f68fd6dcac550106fd5869754a17eb1
+Section: Tweaks
+Description: Test Tweak for my repo
+Author: Zalol <austinkincaidaitr@gmail.com>
+Name: Add as Repo 1
