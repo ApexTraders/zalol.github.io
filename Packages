@@ -1,13 +1,13 @@
-Package: com.zal.AddToRepo
+Package: com.zal.HaptikCenter
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Zalol <austinkincaidaitr@gmail.com>
-Filename: /AddToRepo.deb
-Size: 4854
-MD5sum: 691fe7cc7b6c05226d7347ab13984ef0
+Filename: /HaptikCenter.deb
+Size: 1048062
+MD5sum: 41324b98d1cbbd1f5a9e6dae9773e9f04050acd0
 SHA1: 70dca0ffd48126a6f0205ed9e5318eb65c6e795f
-SHA256: d1bf5de9f4dee950dea9870f5b54ee487f68fd6dcac550106fd5869754a17eb1
+SHA256: 5b77813be447aec6b7d98eb4f3d42ef1f98275298f9f1578d6942656bf3b85c1
 Section: Tweaks
 Description: Test Tweak for my repo
 Author: Zalol <austinkincaidaitr@gmail.com>
-Name: Add as Repo 1
+Name: HaptikCenter 1

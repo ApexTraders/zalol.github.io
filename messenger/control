@@ -1,9 +1,0 @@
-Package: com.zalol.messenger
-Name: messenger
-Depends: mobilesubstrate
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Testing
-Maintainer: zalol
-Author: zalol
-Section: Tweaks
