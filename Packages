@@ -1,13 +1,13 @@
-Package: com.zal.HaptikCenter
-Version: 0.0.1
+Package: com.zal.centerspring
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Zalol <austinkincaidaitr@gmail.com>
-Filename: /HaptikCenter.deb
-Size: 1048062
-MD5sum: 2b77055ca7e9b7acf2f762de5ab7dc01
-SHA1: 41324b98d1cbbd1f5a9e6dae9773e9f04050acd0
-SHA256: 5b77813be447aec6b7d98eb4f3d42ef1f98275298f9f1578d6942656bf3b85c1
+Filename: /centerspring.deb
+Size: 8708
+MD5sum: 28e00723db1d61cbc4c0c97fd2d52016
+SHA1: 01bd24a7485e21fc09cc1b80926e707d7ce00d1c
+SHA256: 72ca400f81853124d773fe42fca9f587f2fbfb7fbbb953e74e49008d46cd38bd
 Section: Tweaks
 Description: Test Tweak for my repo
 Author: Zalol <austinkincaidaitr@gmail.com>
-Name: HaptikCenter 1
+Name: centerspring 1
