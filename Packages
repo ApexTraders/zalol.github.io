@@ -1,13 +1,13 @@
-Package: com.zal.centerspring
-Version: 0.0.1-30+debug
+Package: com.zal.obscurity
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Zalol <austinkincaidaitr@gmail.com>
-Filename: /centerspring.deb
-Size: 8708
-MD5sum: 34fc62446acbeb0b98983c9c710d0d87
-SHA1: 683241f450fdc00b9dc6eac8b8ace73bd43996a6
-SHA256: 5962936835f3502290384f9d74b44d1a41613075dd9a2f3fc1cf82bd4476f729
+Filename: /obscurity.deb
+Size: 184092
+MD5sum: 86481a1d7b75216ba44e375413346ccb
+SHA1: fba48188031866a3280f7396059df6986bd176aa
+SHA256: 25ca53af59c29fc19dcba2d869c45990a716b247149ba72537d08e3d5949ae14
 Section: Tweaks
 Description: Test Tweak for my repo
 Author: Zalol <austinkincaidaitr@gmail.com>
-Name: centerspring 1
+Name: Obscurity
