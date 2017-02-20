@@ -1,4 +1,4 @@
-Package:  com.cpdigitaldarkroom.addsource
+Package:  com.zalol.addsource
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer:  CP Digital Darkroom
@@ -11,4 +11,3 @@ Section: Tweaks
 Description: Add Repos with ease!
 Author:  CP Digital Darkroom
 Name: Add To Cydia
-Installed-Size: 132
