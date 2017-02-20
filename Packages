@@ -1,13 +1,13 @@
-Package: com.zal.obscurity
-Version: 0.0.1
+Package: com.zal.AddToRepo
+Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Zalol <austinkincaidaitr@gmail.com>
-Filename: /obscurity.deb
-Size: 184092
-MD5sum: 86481a1d7b75216ba44e375413346ccb
-SHA1: fba48188031866a3280f7396059df6986bd176aa
-SHA256: 25ca53af59c29fc19dcba2d869c45990a716b247149ba72537d08e3d5949ae14
+Filename: /AddToRepo.deb
+Size: 4854
+MD5sum: 691fe7cc7b6c05226d7347ab13984ef0
+SHA1: 70dca0ffd48126a6f0205ed9e5318eb65c6e795f
+SHA256: d1bf5de9f4dee950dea9870f5b54ee487f68fd6dcac550106fd5869754a17eb1
 Section: Tweaks
-Description: Test Tweak for my repo
+Description: Add Repos with ease!
 Author: Zalol <austinkincaidaitr@gmail.com>
-Name: Obscurity
+Name: Add To Cydia
