@@ -1,19 +1,10 @@
 Package: com.zalol.AddToRepo
-
  Name: testing
-
  Depends: actionmenu
-
  Architecture: iphoneos-arm
-
  Description: Add Repo's with ease
-
  Maintainer: Zalol
-
  Author: Zalol
-
  Section: Addons
-
  Version: 1.0-1+debug
-
  Installed-Size: 132
