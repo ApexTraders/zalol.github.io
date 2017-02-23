@@ -1,13 +1,13 @@
-Package:  com.zalol.addsource
+Package:  com.zalol.Clear On Open
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer:  CP Digital Darkroom
-Filename: /addsource.deb
-Size: 4854
-MD5sum: 691fe7cc7b6c05226d7347ab13984ef0
-SHA1: 70dca0ffd48126a6f0205ed9e5318eb65c6e795f
-SHA256: d1bf5de9f4dee950dea9870f5b54ee487f68fd6dcac550106fd5869754a17eb1
+Filename: /Clear On Open
+Size: 4646
+MD5sum: 14804d1fa82bc586ecade58b7748a27e
+SHA1: b649ef70f08b4d9ed651d38b1507004bca4e89e4
+SHA256: 836334278787872393a5412930a7ba7ed7a01ecfd37638192085bee4bb5e973e
 Section: Tweaks
-Description: Add Repos with ease!
+Description: Clear Spotlight on exit
 Author:  zalol
-Name: Add To Cydia
+Name: Clear On Open
