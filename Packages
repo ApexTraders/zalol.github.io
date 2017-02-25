@@ -1,8 +1,8 @@
-Package:  com.zalol.Clear On Open
+Package:  com.zalol.clearonopen
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer:  CP Digital Darkroom
-Filename: /Clear On Open
+Filename: /clearonopen.deb
 Size: 4646
 MD5sum: 14804d1fa82bc586ecade58b7748a27e
 SHA1: b649ef70f08b4d9ed651d38b1507004bca4e89e4
